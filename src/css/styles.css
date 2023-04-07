@@ -10,8 +10,6 @@ body {
   background-color: #fafafa;
   color: #212121;
   line-height: 1.5;
-  background: url('..img/planet-earth-at-night.jpg') no-repeat;
-  background-size: cover;
 }
 
 #search-box {
