@@ -8,7 +8,7 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   background-color: #fafafa;
-  color: #d4d3d3;
+  color: black;
   line-height: 1.5;
 }
 
@@ -23,7 +23,7 @@ body {
 .card-title {
   font-size: 30px;
   font-family: fantasy;
-  color: aliceblue;
+  color: black;
 }
 
 ul {
