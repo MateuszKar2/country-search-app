@@ -49,7 +49,7 @@ searchBox.addEventListener('input', debounce(() => {
         countryList.innerHTML = "";
         countryInfo.innerHTML = "";
     }), DEBOUNCE_DELAY;
-    },3000));
+    }, 500));
  
 function renderCountry(data) {
     if (data.length > 10) {
