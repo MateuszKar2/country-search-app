@@ -34,7 +34,7 @@ const countryInfo = document.querySelector('.country-info');
  
 
 searchBox.addEventListener('input', debounce(() => {
-    if (!searchBox.value.trim(), 3000) {
+    if (!searchBox.value.trim(), 30000) {
         countryList.innerHTML = "";
         countryInfo.innerHTML = "";
         return;
