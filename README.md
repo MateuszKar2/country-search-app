@@ -1,4 +1,4 @@
-# Country Search App
+ # Country Search App
 
 A country search app built using JavaScript. It allows users to search for countries by name, display detailed information about the country, and view flags and other relevant data.
 
